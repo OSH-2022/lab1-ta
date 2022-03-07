@@ -1,0 +1,4 @@
+[submodule "linux"]
+	path = linux
+	url = git@github.com:OSH-2022/linux.git
+	branch = lab1-syscall
